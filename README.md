@@ -2,5 +2,5 @@
 
 Link til Selver NodeJS applikationen:
 
-https://jakupnode.azurewebsites.net
+jakupnode.azurewebsites.net
 
